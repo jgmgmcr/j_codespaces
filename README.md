@@ -1,2 +1,4 @@
 # j_codespaces
-Pruebas codespaces y copilot
+Pruebas codespaces
+copilot -> pago
+tabby -> necesita configuracion de servidor (aunque sea localhost)
